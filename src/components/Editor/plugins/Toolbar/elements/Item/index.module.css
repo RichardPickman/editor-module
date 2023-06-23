@@ -1,0 +1,15 @@
+.root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 0.25rem;
+    height: 0.25rem;
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 0.25rem;
+}
+
+.root:hover {
+    cursor: pointer;
+}
